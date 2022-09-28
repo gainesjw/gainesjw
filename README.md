@@ -2,7 +2,7 @@
 - 👀 I’m interested in Social Media Research ~
 - 🌱 I’m currently learning Kubernetes, Airflow, and anything Data Engineering!
 - 💞️ I’m looking to collaborate on collecting social media data and sesearch methods ~
-- 📫 How to reach me at jeremy.gaines@outlook.com ~
+- 📫 You can reach me at jeremy.gaines@outlook.com ~
 
 <!---
 gainesjw/gainesjw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
