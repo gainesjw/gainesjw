@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gainesjw
-- 👀 I’m interested in Social Media Research ~
-- 🌱 I’m currently learning Kubernetes, Airflow, and anything Data Engineering!
-- 💞️ I’m looking to collaborate on collecting social media data and sesearch methods ~
+- 👀 My fascination is in simulations and app developement ~
+- 🌱 I’m currently learning Swift, K8s, and anything C++!
+- 💞️ One of my goals is to innovate healthcare tech for small businesses  ~
 - 📫 You can reach me at jeremy.gaines@outlook.com ~
 
 <!---
