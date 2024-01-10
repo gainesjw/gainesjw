@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gainesjw
 - 👀 My fascination is in simulations and app developement ~
-- 🌱 I’m currently learning Swift, K8s, and anything C++!
+- 🌱 I’m currently learning .Net, Azure, and anything C++!
 - 💞️ One of my goals is to innovate healthcare tech for small businesses  ~
 - 📫 You can reach me at jeremy.gaines@outlook.com ~
 
