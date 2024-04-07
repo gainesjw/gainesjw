@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gainesjw
 - 👀 My fascination is in simulations and game development ~
 - 🌱 I’m currently learning Azure, Godot, and anything C++!
-- 💞️ One of my goals is to innovate healthcare tech for small businesses and maybe learn how to make a game or two on the side ~
+- 💞️ One of my goals is to create original retro games - and maybe learn how to make a small business on the side ~
 - 📫 You can reach me at jeremy.gaines@outlook.com ~
 
 <!---
