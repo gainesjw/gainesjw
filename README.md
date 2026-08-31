@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gainesjw
-- 👀 My fascination is in simulations and game development ~
-- 🌱 I’m currently learning Azure, Godot, and anything C++!
-- 💞️ One of my goals is to create original retro games - and maybe learn how to make a small business on the side ~
+- 👀 My fascination is in simulations and projects using Fabric ~
+- 🌱 I’m currently learning Azure, CD/CI, and anything data!
+- 💞️ Some of my goals are to learn more about platform engineering and the weirdness around modern data architectures ~
 - 📫 You can reach me at jeremy.gaines@outlook.com ~
 
 <!---
